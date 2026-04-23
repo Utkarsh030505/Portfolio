@@ -249,6 +249,19 @@ const achievementSection = {
         // }
       ]
     },
+    {
+      title: "Intermediate Leetcoder ",
+      subtitle:
+        "Solved 200+ Data Structures and Algorithms problems on LeetCode",
+      image: require("./assets/images/LeetCode.webp"),
+      imageAlt: "leetcode logo",
+      footerLink: [
+        {
+           name: "DSA",
+           //url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
     // {
     //   title: "Google Assistant Action",
     //   subtitle:
