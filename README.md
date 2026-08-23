@@ -1,6 +1,6 @@
 # Hi, I'm Utkarsh Pandey 👋
 
-🎓 4th Year Computer Engineering Student at **Jaypee Institute of Information Technology** | 💻 Full-Stack Developer
+4th Year Computer Engineering Student at **Jaypee Institute of Information Technology** | Full-Stack Developer
 
 Explore my portfolio to learn more about me, my work, and my projects:
 
